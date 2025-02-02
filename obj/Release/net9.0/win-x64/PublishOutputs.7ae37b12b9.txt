@@ -1,0 +1,2 @@
+D:\Software\Development\C#\OmniTools\Windows Tweaker\publish\Windows Tweaker.pdb
+D:\Software\Development\C#\OmniTools\Windows Tweaker\publish\Windows Tweaker.exe
