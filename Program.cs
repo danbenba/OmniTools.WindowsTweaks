@@ -19,9 +19,9 @@ namespace TelechargementEtExecutionPS1
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-            Console.WriteLine("IObit Driver Booster Pro 12 (Pre-activated)");
+            Console.WriteLine("                Windows Tweaker            ");
             Console.WriteLine(" ");
-            Console.WriteLine("Core Version: Omni0.3");
+            Console.WriteLine("Core Version: Omni0.7");
             Console.WriteLine("Created by danbenba");
             Console.WriteLine("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
             Console.WriteLine();
